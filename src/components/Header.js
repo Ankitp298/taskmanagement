@@ -1,25 +1,3 @@
-// // src/components/Header.js
-// import React from 'react';
-// import { Link } from 'react-router-dom';
-
-// const Header = () => {
-//   return (
-//     <header className="bg-blue-500 p-4 text-white text-center shadow-md">
-//       <h1 className="text-xl font-semibold">Task Manager</h1>
-//       <nav className="mt-2">
-//         <Link to="/" className="text-white hover:text-gray-200 mx-2">Home</Link>
-//         <Link to="/add" className="text-white hover:text-gray-200 mx-2">Add Task</Link>
-//       </nav>
-//     </header>
-//   );
-// };
-
-// export default Header;
-
-
-// Dark Mode
-
-// src/components/Header.js
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 
